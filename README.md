@@ -4,7 +4,7 @@ I’m currently learning:
 ### GlobalLogic DEVOPS101 **"DevOps та Kubernetes. Практичний інтенсив"** Course
 
 **Summary**:
-No work experience in IT Area yet. I'm focused on learning...
+Currently learning Python QA Automation and Datebase Essensials as well.
 
 **Last Project** (2024): Creating Test Automation Framework in Python: https://github.com/kharkovsailing/kostina_qa_auto
 Training Projects in some CS50 and Web Development EdX Courses.
