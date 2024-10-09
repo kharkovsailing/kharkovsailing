@@ -1,10 +1,10 @@
 # About me
 
 I’m currently learning:
-### GlobalLogic DEVOPS101 **"DevOps та Kubernetes. Практичний інтенсив"** Course
+### Data Analytics and Data Quality Engineering 
 
 **Summary**:
-Currently learning Python QA Automation and Datebase Essensials as well.
+Currently learning Cloud Computing (Microsoft Azure, AWS, GCP),  Python QA Automation and Datebase Essensials as well.
 
 **Last Project** (2024): Creating Test Automation Framework in Python: https://github.com/kharkovsailing/kostina_qa_auto
 Training Projects in some CS50 and Web Development EdX Courses.
