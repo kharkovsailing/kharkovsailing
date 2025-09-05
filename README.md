@@ -4,13 +4,13 @@ I’m currently learning:
 ### Data Analytics and Data Quality Engineering 
 
 **Summary**:
-Currently learning Cloud Computing (Microsoft Azure, AWS, GCP),  Python QA Automation and Datebase Essensials as well.
+Cloud Computing (Microsoft Azure, AWS, GCP),  Python QA Automation and Datebase Essensials, MS Fabric, Power BI, Tableau, Databricks.
 
-**Last Project** (2024): Creating Test Automation Framework in Python: https://github.com/kharkovsailing/kostina_qa_auto
+**Last Project** : EDA abd Data Visualization wiyh Power BI, Tableau, Google Colab (2025), Binary Sentiment Classification Data Science Project (2025), ETL and Data Pipelines in MS Asure Data Factory,Postgres DB, Creating Test Automation Framework in Python: https://github.com/kharkovsailing/kostina_qa_auto (2024)
 Training Projects in some CS50 and Web Development EdX Courses.
 
 **Skills**:
-Basics of Manual and Automation Testing, UI and Functional testing of web and mobile applications, API Testing, Basics of Python, Selenium WebDriver, Jira, TestRail, Postman, mySQL, HTML, CSS, Javascript, Figma.
+SQL, Python, Bash Scripting with Data, Basics of Manual and Automation Testing, UI and Functional testing of web and mobile applications, API Testing, Basics of Pytest Framework, Selenium WebDriver, Jira, TestRail, Postman, mySQL, HTML, CSS, Javascript, Figma, Agentic AI Tools.
 **Soft Skills**: Agile, good communications and organization skills, experience of managing a team of 23 workers (Sport School for children), teaching and tutoring experience in mathematics and physics, managing sport teams.
 Foreign languages: English (B2), Italian (B2), Polish (B1), Russian(native speaker)
 
