@@ -6,7 +6,7 @@ I’m currently learning:
 **Summary**:
 Cloud Computing (Microsoft Azure, AWS, GCP),  Python QA Automation and Datebase Essensials, MS Fabric, Power BI, Tableau, Databricks.
 
-**Last Project** : EDA abd Data Visualization wiyh Power BI, Tableau, Google Colab (2025), Binary Sentiment Classification Data Science Project (2025), ETL and Data Pipelines in MS Asure Data Factory,Postgres DB, Creating Test Automation Framework in Python: https://github.com/kharkovsailing/kostina_qa_auto (2024)
+**Last Project** : EDA and Data Visualization with Power BI, Tableau, Google Colab (2025), Binary Sentiment Classification Data Science Project (2025), ETL and Data Pipelines in MS Asure Data Factory,Postgres DB, Creating Test Automation Framework in Python: https://github.com/kharkovsailing/kostina_qa_auto (2024)
 Training Projects in some CS50 and Web Development EdX Courses.
 
 **Skills**:
