@@ -1,12 +1,12 @@
 # About me
 
-I’m currently learning:
+My primarly field of interests is::
 ### Data Analytics and Data Quality Engineering 
 
 **Summary**:
 Cloud Computing (Microsoft Azure, AWS, GCP),  Python QA Automation and Datebase Essensials, MS Fabric, Power BI, Tableau, Databricks.
 
-**Last Project** : EDA and Data Visualization with Power BI, Tableau, Google Colab (2025), Binary Sentiment Classification Data Science Project (2025), ETL and Data Pipelines in MS Azure Data Factory,Postgres DB, Creating Test Automation Framework in Python: https://github.com/kharkovsailing/kostina_qa_auto (2024)
+**Last Projects** : EDA and Data Visualization with Power BI, Tableau (https://public.tableau.com/views/OscarMoviesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), Google Colab (2025), Binary Sentiment Classification Data Science Project (2025), ETL and Data Pipelines in MS Azure Data Factory,Postgres DB, Creating Test Automation Framework in Python: https://github.com/kharkovsailing/kostina_qa_auto (2024)
 Training Projects in some CS50 and Web Development EdX Courses.
 
 **Skills**:
