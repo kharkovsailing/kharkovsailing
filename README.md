@@ -20,10 +20,10 @@ Foreign languages: English (B2), Italian (B2), Polish (B1), Russian(native speak
 Student in Data Quality Engineering Laboratory (EPAM Systems), Coach and Vice Director of the Sailing Sport School  “HOSDUSHOR”, Teacher of Physics, Kharkiv
 
 **Courses**:
-2025 - "DQE Lab" (EPAM Systems UA)
-October 2023 - February 2024 
-Student "Тестувальник QA Auto"(GlobalLogic QAAUTO101) Prometheus Course.
-Project: Creating Test Automation Framework in Python
+2025 - "DQE Lab" (EPAM Systems UA), 
+2023 - February 2024  
+ Student "Тестувальник QA Auto"(GlobalLogic QAAUTO101) Prometheus Course.
+ Project: Creating Test Automation Framework in Python
  https://github.com/kharkovsailing/kostina_qa_auto
 
 EdX and Coursera Courses: CS50's Introduction to Programming with Python, CS50's Introduction to Databases with SQL and others (2015 - 2020):
