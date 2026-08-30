@@ -17,9 +17,10 @@ SQL, Python, Bash Scripting with Data, Basics of Manual and Automation Testing, 
 Foreign languages: English (B2), Italian (B2), Polish (B1), Russian(native speaker)
 
 **Career History**:
-Coach of Sailing in Kharkiv Sport School, Vice Director of the Sailing Sport School  “HOSDUSHOR”, Teacher of Physics in Secondary School, Kharkiv
+Student in Data Quality Engineering Laboratory (EPAM Systems), Coach and Vice Director of the Sailing Sport School  “HOSDUSHOR”, Teacher of Physics, Kharkiv
 
 **Courses**:
+2025 - "DQE Lab" (EPAM Systems UA)
 October 2023 - February 2024 
 Student "Тестувальник QA Auto"(GlobalLogic QAAUTO101) Prometheus Course.
 Project: Creating Test Automation Framework in Python
