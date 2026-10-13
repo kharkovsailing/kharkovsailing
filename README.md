@@ -4,9 +4,10 @@ My primarly field of interests is::
 ### Data Analytics and Data Quality Engineering 
 
 **Summary**:
-Cloud Computing (Microsoft Azure, AWS, GCP),  Python QA Automation and Datebase Essensials, MS Fabric, Power BI, Tableau, Databricks.
+Cloud Computing (Microsoft Azure, AWS, GCP),  Python QA Automation and Database Essensials, MS Fabric, Power BI, Tableau, Databricks.
 
 **My Projects** : 
+Sales Data Pipeline & Interactive Dashboard with Gemini (Antigravity) CLI (https://github.com/kharkovsailing/sales-data-pipeline-dashboard-antigravity-cli) (2026)
 Building RAG Chatbots for Technical Documentation (with LangChain) (https://github.com/kharkovsailing/langchain_tech_documentation_chatbot) (2026)
 EDA and Data Visualization with Power BI, Tableau  (2025) (https://public.tableau.com/views/OscarMoviesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), Google Colab (2025), Binary Sentiment Classification Data Science Project (2025), ETL and Data Pipelines in MS Azure Data Factory,Postgres DB, Creating Test Automation Framework in Python: https://github.com/kharkovsailing/kostina_qa_auto (2024)
 Training Projects in some CS50 and Web Development EdX Courses.
